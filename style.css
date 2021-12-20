@@ -1,0 +1,30 @@
+  .heading
+  {
+    width: 100%;
+   font-size: 23px;
+    box-shadow: 60px -16px gold ;
+  }
+  .heading_div
+  {
+    float: none;
+    padding: 10px;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow: 60px -16px red ;
+    font-size: 20px;
+  }
+ 
+canvas{
+ border: 5px;
+ border-radius: 20px; 
+ margin-top: 160px;
+}
